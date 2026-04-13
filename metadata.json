@@ -1,0 +1,5 @@
+{
+  "name": "OmniBrain",
+  "description": "A multimodal data analysis tool that processes PDFs, images, audio, and video to synthesize insights.",
+  "requestFramePermissions": []
+}
